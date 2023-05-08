@@ -1,0 +1,26 @@
+{
+  "name": "bootsrap_v5.2.0",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5.2.0 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "learn",
+    "bootstrap",
+    "v5.2.0",
+    "learn",
+    "sass"
+  ],
+  "author": "Monoar",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.2.0"
+  }
+}
